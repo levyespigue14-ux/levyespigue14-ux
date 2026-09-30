@@ -57,7 +57,24 @@
       </a>
     </td>
   </tr>
-  <tr>
+    <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 Shopee Deals Bot — Automação no Telegram</h3>
+      <p>Bot em Python que busca ofertas pela API de Afiliados da Shopee, filtra por desconto, nota e vendas e publica sozinho no canal do Telegram, com textos escritos pela <b>API do Claude</b>. Guarda o histórico em <b>SQLite</b> para não repetir ofertas e roda 24h numa VM Linux na <b>Oracle Cloud</b>.</p>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_Bot_API-000000?style=flat&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_API-000000?style=flat&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/levyespigue14-ux/shopee-deals-bot">
+        <img src="https://img.shields.io/badge/Ver_código-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://t.me/levylly_shop">
+        <img src="https://img.shields.io/badge/Ver_canal-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+   <tr>
     <td width="50%" valign="top">
       <h3>🚚 AldeciFretes</h3>
       <p>Landing page desenvolvida para o setor de fretes.</p>
