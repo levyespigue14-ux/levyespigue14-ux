@@ -90,22 +90,6 @@
 
 <br>
 
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=levyespigue14-ux&theme=react-dark&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" width="100%"/>
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=levyespigue14-ux&theme=gitdimmed&no-frame=true&margin-w=10&row=2&column=4" />
-</div>
-
-<br>
-
 ## 🐍 Snake Contribution
 
 <div align="center">
