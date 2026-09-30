@@ -44,6 +44,19 @@
 ## 🧩 Projetos
 
 <table width="100%">
+    <tr>
+    <td colspan="2" valign="top">
+      <h3>🎙️ Marin — Assistente de voz com IA local</h3>
+      <p>Assistente pessoal estilo "Jarvis" para Windows: entende a voz com <b>Whisper</b>, decide o que fazer com uma <b>IA local (Ollama)</b> e responde falando. Controla o PC, toca músicas no YouTube, mostra o clima, cria lembretes e anotações.</p>
+      <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Whisper-000000?style=flat&logo=openai&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/levyespigue14-ux/marin">
+        <img src="https://img.shields.io/badge/Ver_código-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚚 AldeciFretes</h3>
