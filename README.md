@@ -88,17 +88,15 @@ Desenvolvedor back-end focado em **Python e Java**, construindo APIs, bots e aut
 
 ---
 
-<h2 align="center">📈 Gráfico de atividade</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=levyespigue14-ux&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20do%20Levy" alt="Gráfico de contribuições" />
-</p>
+<h2 align="center">🐍 Gráfico de contribuições</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levyespigue14-ux/levyespigue14-ux/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/levyespigue14-ux/levyespigue14-ux/output/github-contribution-grid-snake.svg" alt="Snake" />
+    <img width="100%" src="https://raw.githubusercontent.com/levyespigue14-ux/levyespigue14-ux/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições do último ano" />
   </picture>
+  <br/>
+  <sub>Contribuições dos últimos 12 meses · atualizado todo dia</sub>
 </p>
 
 <p align="center">
