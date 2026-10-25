@@ -1,6 +1,6 @@
 <!-- ================= BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161b22,100:30363d&height=220&section=header&text=Jo%C3%A3o%20Levy&fontSize=64&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%3C%2F%3E%20%20Back-end%20Developer%20%C2%B7%20Python%20%C2%B7%20Java&descSize=18&descAlignY=58" width="100%" alt="João Levy" />
+  <img src="assets/banner.gif" width="100%" alt="João Levy - back-end developer" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Desenvolvedor back-end focado em **Python e Java**, construindo APIs, bots e aut
 
 </td>
 <td width="38%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="" />
+  <img src="assets/globo.gif" width="260" alt="Globo de rede" />
 </td>
 </tr>
 </table>
@@ -105,4 +105,3 @@ Desenvolvedor back-end focado em **Python e Java**, construindo APIs, bots e aut
   <img src="https://komarev.com/ghpvc/?username=levyespigue14-ux&color=30363d&style=flat-square&label=Visitas+no+perfil" alt="Visitas" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,50:161b22,100:000000&height=110&section=footer" width="100%" alt="" />
